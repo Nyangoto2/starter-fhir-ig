@@ -1,8 +1,8 @@
 Profile: KenyaPatient
-Parent: Patient
+Parent: PatientUvIps
 Id: kenya-patient
 Title: "Kenya-Patient"
-Description: "Kenya Patient"
+Description: "Kenya Patient profile"
 * maritalStatus 1..1
 * gender 1..1
 * telecom 0..* MS
